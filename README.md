@@ -1,0 +1,2 @@
+# scad_with_stl
+用来储存images2OpenSCAD中生成的scad以及stl过程文件
