@@ -13,7 +13,7 @@ nut_size = 8;
 bolt_count = 4;
 bolt_circle_diameter = 50;
 
-// Hub with bolt holes
+// Hub with bolt holes and refined structure
 module hub() {
     difference() {
         cylinder(d=hub_diameter, h=hub_length, center=true);
@@ -85,4 +85,3 @@ module coupling_assembly() {
 
 // Render the coupling assembly
 coupling_assembly();
-
