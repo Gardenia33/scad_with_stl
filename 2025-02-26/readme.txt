@@ -1,0 +1,1 @@
+早一点的16到19是没有graph_dict 只有component_list和images生成的
